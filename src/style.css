@@ -1,0 +1,238 @@
+body {
+    position: relative;
+    top: 10px;
+    left: 70px;
+    border: 4px solid rgb(90, 98, 117);
+    border-radius: 4px;
+    width: 1300px;
+    margin: 60px 40px 380px 40px;
+    padding: 60px 20px 340px 20px;
+    max-width: 100%;
+  }
+  h1 {
+    position: fixed;
+    left: 170px;
+    top: 140px;
+    text-align: left;
+    color: rgb(90, 98, 117);
+    font-size: 50px;
+  }
+  ul {
+    position: relative;
+    list-style: none;
+    top: -90px;
+    text-align: right;
+    padding: 50px auto;
+    color: rgb(90, 98, 117);
+    font-size: 30px;
+  }
+  .search-button {
+    position: fixed;
+    top: 180px;
+    left: 500px;
+    display: block;
+    margin: 0 auto;
+    border: 4px solid #000000;
+    border-radius: 30px;
+    width: 500px;
+    padding: 10px 20px 10px 20px;
+    color: rgb(90, 98, 117);
+  }
+  p {
+    text-align: left;
+    position: fixed;
+    top: 190px;
+    left: 200px;
+    color: rgb(90, 98, 117);
+    font-size: 30px;
+    width: 100%;
+  }
+  h2 {
+    text-align: left;
+    position: fixed;
+    top: 220px;
+    left: 260px;
+    color: rgb(90, 98, 117);
+    font-size: 26px;
+    width: 100%;
+  }
+  h5 {
+    position: relative;
+    top: -40px;
+    text-align: right;
+    right: -0px;
+    font-size: 26px;
+    width: 100%;
+  }
+  .emoji-one {
+    position: fixed;
+    top: 440px;
+    text-align: right;
+    left: 320px;
+    font-size: 20px;
+    color: #296fe3;
+    border: 1px solid #000000;
+    border-radius: 30px;
+    padding: 10px 15px 10px 15px;
+    background-color: rgb(243, 247, 255);
+  }
+  .emoji-two {
+    position: fixed;
+    top: 440px;
+    text-align: right;
+    left: 470px;
+    font-size: 20px;
+    color: #296fe3;
+    border: 1px solid #000000;
+    border-radius: 30px;
+    padding: 10px 15px 10px 15px;
+    background-color: rgb(243, 247, 255);
+  }
+  .emoji-three {
+    position: fixed;
+    top: 440px;
+    text-align: right;
+    left: 630px;
+    font-size: 20px;
+    color: #296fe3;
+    border: 1px solid #000000;
+    border-radius: 30px;
+    padding: 10px 15px 10px 15px;
+    background-color: rgb(243, 247, 255);
+  }
+  .emoji-four {
+    position: fixed;
+    top: 440px;
+    text-align: right;
+    left: 810px;
+    font-size: 20px;
+    color: #296fe3;
+    border: 1px solid #000000;
+    border-radius: 30px;
+    padding: 10px 15px 10px 15px;
+    background-color: rgb(243, 247, 255);
+  }
+  .emoji-five {
+    position: fixed;
+    top: 440px;
+    text-align: right;
+    right: 480px;
+    font-size: 20px;
+    color: #ffe168;
+    border: 1px solid #000000;
+    border-radius: 30px;
+    padding: 10px 15px 10px 15px;
+    background-color: rgb(243, 247, 255);
+  }
+  .emoji-six {
+    position: fixed;
+    top: 440px;
+    text-align: right;
+    right: 310px;
+    font-size: 20px;
+    color: #ffe168;
+    border: 1px solid #000000;
+    border-radius: 30px;
+    padding: 10px 15px 10px 15px;
+    background-color: rgb(243, 247, 255);
+  }
+  .emoji-seven {
+    position: fixed;
+    top: 100px;
+    text-align: right;
+    right: 150px;
+    font-size: 20px;
+    color: #296fe3;
+    border: 1px solid #000000;
+    border-radius: 30px;
+    padding: 10px 15px 10px 15px;
+    background-color: rgb(243, 247, 255);
+  }
+  .day-one {
+    position: fixed;
+    top: 500px;
+    left: 300px;
+    font-size: 26px;
+  }
+  .day-two {
+    position: fixed;
+    top: 500px;
+    left: 450px;
+    font-size: 26px;
+  }
+  .day-three {
+    position: fixed;
+    top: 500px;
+    left: 610px;
+    font-size: 26px;
+  }
+  .day-four {
+    position: fixed;
+    top: 500px;
+    left: 770px;
+    font-size: 26px;
+  }
+  .day-five {
+    position: fixed;
+    top: 500px;
+    right: 450px;
+    font-size: 26px;
+  }
+  .day-six {
+    position: fixed;
+    top: 500px;
+    right: 300px;
+    font-size: 26px;
+  }
+  .temperature-one {
+    position: fixed;
+    display: block;
+    margin: 0 auto;
+    top: 550px;
+    left: 320px;
+  }
+  .temperature-two {
+    position: fixed;
+    display: block;
+    margin: 0 auto;
+    top: 550px;
+    left: 480px;
+  }
+  .temperature-three {
+    position: fixed;
+    display: block;
+    margin: 0 auto;
+    top: 550px;
+    left: 640px;
+  }
+  .temperature-four {
+    position: fixed;
+    display: block;
+    margin: 0 auto;
+    top: 550px;
+    left: 820px;
+  }
+  
+  .temperature-five {
+    position: fixed;
+    display: block;
+    margin: 0 auto;
+    top: 550px;
+    right: 310px;
+  }
+  .temperature-six {
+    position: fixed;
+    display: block;
+    margin: 0 auto;
+    top: 550px;
+    right: 480px;
+  }
+  blue-button {
+    left: 500px;
+    top: 300px;
+  }
+  green-button {
+    right: 500px;
+    top: 200px;
+  }
+  
